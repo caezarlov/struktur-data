@@ -9,7 +9,7 @@ typedef struct {
     int top;
 } Stack;
 
-// Function prototypes
+
 void initStack(Stack *s);
 int isEmpty(Stack *s);
 int isFull(Stack *s);
